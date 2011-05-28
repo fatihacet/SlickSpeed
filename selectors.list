@@ -1,0 +1,31 @@
+body
+div
+body div
+div p
+div > p
+div + p
+div ~ p
+div[class^=exa][class$=mple]
+div p a
+div, p, a
+.note
+div.example
+ul .tocline2
+div.example, div.note
+#title
+h1#title
+div #title
+ul.toc li.tocline2
+ul.toc > li.tocline2
+h1#title + div > p
+a[href][lang][class]
+div[class]
+div[class=example]
+div[class^=exa]
+div[class$=mple]
+div[class*=e]
+div[class|=dialog]
+div:not(.example)
+p:only-child
+p:last-child
+p:first-child

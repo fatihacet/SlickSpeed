@@ -1,0 +1,4 @@
+This is JavaScript performance tool written by Mootols developers and currently owned by kamicane on github.
+This tool runs various test selectors in seperate iframes for testing JavaScript frameworks' selector speed.
+My version of this tool includes more library and selector to test. Also I have made some minor changes.
+Please visit https://github.com/kamicane/slickspeed for more detailed information. 
